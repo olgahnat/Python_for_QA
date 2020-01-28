@@ -5,6 +5,6 @@ def my_function(inp_string):
   final = first_10 + last_10
   print(final)
 
-inp_string = input('Entar a string to be concatenated: ')
+inp_string = input('Enter a string to be concatenated: ')
 my_function(inp_string)
 
